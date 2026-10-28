@@ -1,6 +1,7 @@
 {
-  "buildCommand": null,
+  "buildCommand": "",
   "outputDirectory": "dist/client",
-  "installCommand": "echo skip",
-  "framework": null
+  "installCommand": "",
+  "framework": null,
+  "devCommand": ""
 }
